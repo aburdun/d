@@ -1,0 +1,4 @@
+package: github.com/aburdun/d
+import:
+- package: github.com/aburdun/f
+  version: =1.0
